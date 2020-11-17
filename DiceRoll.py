@@ -8,7 +8,7 @@ A random program for rolling large amounts of dice, because thats what America n
 #random number importations
 from numpy import random
 
-#graph shit, in beta
+#graph stuff, in beta
 
 #import sys
 #import matplotlib
@@ -77,7 +77,7 @@ else: # once its finished
 #keeps window open
  input("Press enter to close...")
 
- #graph shit, beta for now
+ #graph stuff, beta for now
 
  #plt.hist(diceOutput)
  #plt.show()
